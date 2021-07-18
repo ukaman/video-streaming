@@ -6,6 +6,10 @@ How to run after cloning, cd into the "video-streaming" folder and run following
 npm install
 npm start
 ```
+Then open the following url in your browser (localhost on port 8000):
+```
+127.0.0.1:8000/
+```
 Next TO-DO:
 
 add authentication
